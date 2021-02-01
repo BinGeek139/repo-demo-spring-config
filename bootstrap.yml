@@ -5,7 +5,7 @@
 
 jhipster:
   registry:
-    password: admin
+    password: ahihi
 
 spring:
   application:
